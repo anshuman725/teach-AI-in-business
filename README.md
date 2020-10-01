@@ -20,6 +20,9 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [AI4All](https://ai4all.docebosaas.com/learn) | AI 4 All is a resource for AI facilitators to bring AI to scholars and students |
 | [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
 | [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
+| [Devloping Android App](https://www.udacity.com/course/new-android-fundamentals--ud851)| A free course to learn basics of Android App development |
+| [Devloping Advanced Android App](https://www.udacity.com/course/advanced-android-app-development--ud855)| A free course to learn Advance Android App development |
+
 
 
 ## Book Resources
@@ -34,3 +37,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Deep Learning Book |
 |---| Reinforcement Learning: An Introduction |
 |---| Reinforcement Learning |
+|---| Introducing Java 8 |
+|---|  Data Structures and Algorithms with Object-Oriented Design Patterns in Java |
+
+
